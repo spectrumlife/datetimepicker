@@ -94,7 +94,7 @@
   },
   "dependencies": {
     "invariant": "^2.2.4",
-    "deprecated-react-native-prop-types": "0.0.8"
+    "deprecated-react-native-prop-types": "^4.2.1"
   },
   "codegenConfig": {
     "name": "RNDateTimePickerCGen",
