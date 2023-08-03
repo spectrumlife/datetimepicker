@@ -93,7 +93,8 @@
     "semantic-release": "^19.0.3"
   },
   "dependencies": {
-    "invariant": "^2.2.4"
+    "invariant": "^2.2.4",
+    "deprecated-react-native-prop-types": "0.0.8"
   },
   "codegenConfig": {
     "name": "RNDateTimePickerCGen",
